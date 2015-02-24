@@ -1,3 +1,7 @@
+Take a look at Ranking Sort for a faster one
+https://github.com/curciosobrinho/RankingSort
+
+
 # EcoSelectionSort (and brothers)
 New sort algorithms derived from selection sort algorithm. Implementation in C (plain C)
 
